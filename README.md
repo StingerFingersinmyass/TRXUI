@@ -17,7 +17,7 @@
 
 ## 💉 Supported Executors
 
-✅Seliware
-❎TRXQ(Discontinued)
+>✅Seliware
+>❎TRXQ(Discontinued)
 
 ---
