@@ -14,3 +14,10 @@
 > By using this project, you agree that you are solely responsible for your actions.
 
 ---
+
+## 💉 Supported Executors
+
+✅Seliware
+❎TRXQ(Discontinued)
+
+---
