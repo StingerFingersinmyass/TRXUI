@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\trxload\TRXLoader\bin\x64\Release\TRXLoader.exe
+C:\Users\User\Desktop\trxload\TRXLoader\bin\x64\Release\TRXLoader.pdb
+C:\Users\User\Desktop\trxload\TRXLoader\bin\x64\Release\FluentWPF.dll
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\MainWindow.g.cs
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\App.g.cs
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader_MarkupCompile.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader_MarkupCompile.lref
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\App.baml
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\MainWindow.baml
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.g.resources
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.Properties.Resources.resources
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.csproj.GenerateResource.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.csproj.Up2Date
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.exe
+C:\Users\User\Desktop\trxload\TRXLoader\obj\x64\Release\TRXLoader.pdb

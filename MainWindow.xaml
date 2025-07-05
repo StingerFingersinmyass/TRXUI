@@ -1,0 +1,54 @@
+<fw:AcrylicWindow
+	x:Class="TRXLoader.MainWindow"
+	xmlns:fw="clr-namespace:SourceChord.FluentWPF;assembly=FluentWPF"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:TRXLoader"
+	fw:PointerTracker.Enabled="True"
+	AcrylicWindowStyle="None"
+	Enabled="True"
+	ShowInTaskbar="False"
+	ResizeMode="NoResize"
+	WindowStyle="None"
+	Topmost="True"
+	WindowStartupLocation="CenterScreen"
+	NoiseOpacity="0"
+	Title="TRX"
+	Height="350"
+	Width="350"
+	Background="#4C1D1D1D"
+
+	Loaded="MainWindow_Loaded">
+	<Grid>
+		<Image
+			x:Name="logoImg"
+			HorizontalAlignment="Left"
+			Height="350"
+			VerticalAlignment="Top"
+			Width="350"
+			Source="TRX350s.png"
+			Margin="2,-9,-2,0" />
+		<Label
+			x:Name="headerLbl"
+			Content="Loading..."
+			HorizontalAlignment="Left"
+			Margin="24,267,0,0"
+			VerticalAlignment="Top"
+			Foreground="#FFFFFFFF"
+			FontFamily="Segoe UI Semibold"
+			FontSize="18"
+			Background="{x:Null}" />
+		<Label
+			x:Name="statusLbl"
+			Content="Checking version"
+			HorizontalAlignment="Left"
+			Margin="24,301,0,0"
+			VerticalAlignment="Top"
+			Foreground="#FFDCD3D3"
+			FontFamily="Segoe UI Semilight"
+			FontSize="16"
+			Background="{x:Null}" />
+	</Grid>
+</fw:AcrylicWindow>

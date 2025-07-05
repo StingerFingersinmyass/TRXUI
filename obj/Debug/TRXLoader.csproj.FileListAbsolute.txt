@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\trxload\TRXLoader\bin\Debug\TRXLoader.exe
+C:\Users\User\Desktop\trxload\TRXLoader\bin\Debug\TRXLoader.pdb
+C:\Users\User\Desktop\trxload\TRXLoader\bin\Debug\FluentWPF.dll
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\App.g.cs
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader_MarkupCompile.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader_MarkupCompile.lref
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\App.baml
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.g.resources
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.Properties.Resources.resources
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.csproj.GenerateResource.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.csproj.Up2Date
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.exe
+C:\Users\User\Desktop\trxload\TRXLoader\obj\Debug\TRXLoader.pdb
