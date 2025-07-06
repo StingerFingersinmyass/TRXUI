@@ -22,3 +22,5 @@
 >❎TRXQ(Discontinued)
 
 ---
+
+_Key System is purely for concept, enter any text in the input field._*
